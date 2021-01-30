@@ -10,6 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Framer motion](https://www.framer.com/motion/)
 - [Styled Components](https://styled-components.com/)
 - [ESLint](https://eslint.org/)
+- [React Loading](https://github.com/fakiolinho/react-loading)
 
 ## :computer: Resultado 
 
